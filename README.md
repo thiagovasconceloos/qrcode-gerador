@@ -6,20 +6,15 @@
     <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-### Vídeo ensinando detalhadamente como criar este projeto
+# Vídeo ensinando detalhadamente como criar este projeto
 https://www.youtube.com/watch?v=UOIDhGCGCio&t=7s
 
-### Este projeto permite  a geração de um QrCode a partir de um link inserido pelo usuario.
-
-
-### Caso o link já tenha um QrCode gerado, nada acontecerá
-
-
-
-### Caso o usuario clique no botão gerar QrCode sem ter colocado um link  para gerar, nada acontecerá.
+### Este projeto permite  a geração de um QrCode a partir de um link inserido pelo usuario.O projeto é simples, mas deu para exercitar conceitos como: 
+# - Manipulação do DOM
+# - Consumir API
 
 
 
-### Para desenvolver este projeto foi necessário utilizar a API https://goqr.me/api/
+# Para desenvolver este projeto foi necessário utilizar a API https://goqr.me/api/
 
 
